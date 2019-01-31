@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI5351B
+D The Si5351 is an I2C configurable clock generator that is ideally suited for replacingcrystals, crystal oscillators, VCXOs, phase-locked loops (PLLs), and fanout buffers incost-sensitive applications.
+F https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf
+$ENDCMP
+#
+#End Doc Library
